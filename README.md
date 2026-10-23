@@ -1,3 +1,12 @@
+# RentEase – Vehicle Rental System
+
+🌐 **Live Website:** https://rentease-solid-project.onrender.com
+
+💻 **GitHub Repository:** https://github.com/raghav-admin/RentEase-SOLID-Project
+
+A C++ vehicle rental project demonstrating object-oriented programming and SOLID principles, with a web-based interface for exploring vehicles and simulating bookings.
+
+---
 # RentEase — SOLID Vehicle Rental Web App (C++17)
 
 A small college mini-project built with **C++17 backend + HTML/CSS/JavaScript frontend**. It demonstrates OOP and all five SOLID principles through a realistic vehicle-rental workflow.
